@@ -12,10 +12,10 @@
 
 
 ## Timeline
-- Week 1: بحث & Presentation
-- Week 2: إعداد الـ Security Profiles
+- Week 1: Search & Presentation
+- Week 2: Security Profiles
 - Week 3: Monitoring & Reporting
-- Week 4: تقرير نهائي + Presentation
+- Week 4: Final Report+ Presentation
 
 ## Deliverables
 - Configurations
