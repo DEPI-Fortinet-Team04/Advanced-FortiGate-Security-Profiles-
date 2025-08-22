@@ -6,9 +6,9 @@
 ## Team Members
 - Jihanel Khouly
 - Nour Elsheikh
+- Shahd Ali
 - Marolla Fouad 
 - Sagda Elakad 
-- Shahd Ali
 
 
 ## Timeline
